@@ -1,0 +1,15 @@
+{
+  "name": "full-stack-back",
+  "version": "1.0.0",
+  "description": "a Back end at chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "author": "Ali",
+  "license": "ISC"
+}
