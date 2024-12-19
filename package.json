@@ -1,15 +1,19 @@
 {
   "name": "full-stack-back",
   "version": "1.0.0",
-  "description": "A backend code",
+  "description": "A  new backend code",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "JavaScript",
     "backend"
   ],
   "author": "ALi",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
