@@ -2,6 +2,7 @@
   "name": "full-stack-back",
   "version": "1.0.0",
   "description": "a Back end at chai aur code",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
